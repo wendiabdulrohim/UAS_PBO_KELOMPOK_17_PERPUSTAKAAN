@@ -11,8 +11,8 @@ demo aplikasi kelompok 17 : https://youtu.be/DU5CVF0lDIU
 
 cara install :
 
-download file sourcecode aplikasi
-ektra file menjadi folder.
-rename nama folder menjadi "perpustakaanku" tanpa tanda petik.
-lalu upload database perpustakaanku.sql.
-jalankan netbeans done.
+1. download file sourcecode aplikasi.
+2. ektra file menjadi folder.
+3. rename nama folder menjadi "perpustakaanku" tanpa tanda petik.
+4. lalu upload database perpustakaanku.sql.
+5. jalankan netbeans done.
