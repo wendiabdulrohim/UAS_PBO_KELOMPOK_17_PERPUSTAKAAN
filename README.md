@@ -3,10 +3,11 @@ Aplikasi Manajemen Pengelolaan Perpustakaan
 
 Aplikasi majaemen pengelolaan perpustakaan ini dibuat menggunakan java netbeans, tetapi aplikasi ini masih memiliki kekurangan seperti :
 
-data denda.
-report.
-status buku pinjam auto rubah.
-dll.
+- data denda.
+- report.
+- status buku pinjam auto rubah.
+- dll.
+
 demo aplikasi kelompok 17 : https://youtu.be/DU5CVF0lDIU
 
 cara install :
